@@ -1,1 +1,2 @@
 this is the first line in b.text
+this is the second line in b.text
